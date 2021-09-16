@@ -1,0 +1,79 @@
+$date
+  Thu Sep 16 10:35:43 2021
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$var reg 1 ! i_in1t $end
+$var reg 1 " i_in2t $end
+$var reg 1 # o_out1t $end
+$var reg 1 $ o_out2t $end
+$scope module uut $end
+$var reg 1 % i_in1 $end
+$var reg 1 & i_in2 $end
+$var reg 1 ' o_out1 $end
+$var reg 1 ( o_out2 $end
+$var reg 1 ) o_and_out $end
+$var reg 1 * o_or_out $end
+$scope module and2 $end
+$var reg 1 + i_ain1 $end
+$var reg 1 , i_ain2 $end
+$var reg 1 - o_and_out $end
+$upscope $end
+$scope module or2 $end
+$var reg 1 . i_oin1 $end
+$var reg 1 / i_oin2 $end
+$var reg 1 0 o_or_out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+0!
+0"
+0#
+1$
+0%
+0&
+0'
+1(
+0)
+0*
+0+
+0,
+0-
+0.
+0/
+00
+#100000000
+#200000000
+1"
+1#
+1&
+1'
+1*
+1,
+1/
+10
+#300000000
+1!
+0"
+0$
+1%
+0&
+0(
+1+
+0,
+1.
+0/
+#400000000
+1"
+0#
+1&
+0'
+1)
+1,
+1-
+1/

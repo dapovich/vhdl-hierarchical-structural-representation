@@ -1,0 +1,13 @@
+v 4
+file "C:\Studing\Group-project-education\VHD_Practice\vhdl\dataflow-model\" "and_module.vhdl" "fcd3e942b25e37c8c8288ca440fa053cc76ca636" "20210916033407.525":
+  entity and_module at 1( 0) + 0 on 15;
+  architecture dataflow_model of and_module at 10( 198) + 0 on 16;
+file "C:\Studing\Group-project-education\VHD_Practice\vhdl\dataflow-model\" "main.vhdl" "861bdee21c1d74f362138a484e4bdbab47e8c0cc" "20210916033407.525":
+  entity main at 1( 0) + 0 on 13;
+  architecture dataflow_model of main at 11( 209) + 0 on 14;
+file "C:\Studing\Group-project-education\VHD_Practice\vhdl\dataflow-model\" "main_tb.vhdl" "3ac4137cde6ded66be6ea74ccc7083f14da95835" "20210916033407.525":
+  entity main_tb at 1( 0) + 0 on 11;
+  architecture dataflow of main_tb at 7( 82) + 0 on 12;
+file "C:\Studing\Group-project-education\VHD_Practice\vhdl\dataflow-model\" "or_module.vhdl" "16814109322b8afc17837feb6ea2a27c8b3804ba" "20210916033407.525":
+  entity or_module at 1( 0) + 0 on 17;
+  architecture dataflow_model of or_module at 10( 189) + 0 on 18;
