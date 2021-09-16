@@ -1,1 +1,1 @@
-# vhdl-hierarchical-structural-representation
+# This is a vhdl hierarchical structural representation
